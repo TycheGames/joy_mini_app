@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/joy_mini_app/static/css/main.31d6cfe0.css",
-    "main.js": "/joy_mini_app/static/js/main.d3100159.js",
+    "main.js": "/joy_mini_app/static/js/main.bf4728ad.js",
     "static/js/453.42809930.chunk.js": "/joy_mini_app/static/js/453.42809930.chunk.js",
     "index.html": "/joy_mini_app/index.html",
-    "main.d3100159.js.map": "/joy_mini_app/static/js/main.d3100159.js.map",
+    "main.bf4728ad.js.map": "/joy_mini_app/static/js/main.bf4728ad.js.map",
     "453.42809930.chunk.js.map": "/joy_mini_app/static/js/453.42809930.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.d3100159.js"
+    "static/js/main.bf4728ad.js"
   ]
 }
